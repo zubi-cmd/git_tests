@@ -1,2 +1,2 @@
-# git_tests
-my first GitHub repo!
+README.md
+Helloo Odin
